@@ -5,4 +5,4 @@ If you need help, comment and I'll answer as quickly as possible
 
 https://i.imgur.com/jruPSif.png
 
-<img src="https://i.imgur.com/jruPSif.png" alt="https://i.imgur.com/jruPSif.png" height="42" width="42"> 
+![alt text](https://i.imgur.com/jruPSif.png)
